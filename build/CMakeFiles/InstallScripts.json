@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/cmake_install.cmake",
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/src/cmake_install.cmake",
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/test/cmake_install.cmake",
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/external/googletest/cmake_install.cmake",
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/external/googletest/googlemock/cmake_install.cmake",
+		"D:/writtenprogramms/LAB_OS_1_employee_sys/build/external/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

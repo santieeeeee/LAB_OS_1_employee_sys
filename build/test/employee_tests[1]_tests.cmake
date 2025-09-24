@@ -1,0 +1,7 @@
+add_test([=[EmployeeIOTest.WriteThenRead]=]  D:/writtenprogramms/LAB_OS_1_employee_sys/build/test/Release/employee_tests.exe [==[--gtest_filter=EmployeeIOTest.WriteThenRead]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[EmployeeIOTest.WriteThenRead]=]  PROPERTIES WORKING_DIRECTORY D:/writtenprogramms/LAB_OS_1_employee_sys/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[SortTest.ByNum]=]  D:/writtenprogramms/LAB_OS_1_employee_sys/build/test/Release/employee_tests.exe [==[--gtest_filter=SortTest.ByNum]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[SortTest.ByNum]=]  PROPERTIES WORKING_DIRECTORY D:/writtenprogramms/LAB_OS_1_employee_sys/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[ReportFormatting.SalaryCalculation]=]  D:/writtenprogramms/LAB_OS_1_employee_sys/build/test/Release/employee_tests.exe [==[--gtest_filter=ReportFormatting.SalaryCalculation]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[ReportFormatting.SalaryCalculation]=]  PROPERTIES WORKING_DIRECTORY D:/writtenprogramms/LAB_OS_1_employee_sys/build/test SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  employee_tests_TESTS EmployeeIOTest.WriteThenRead SortTest.ByNum ReportFormatting.SalaryCalculation)
