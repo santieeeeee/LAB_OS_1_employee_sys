@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Функция запускает внешнюю программу и ждёт её завершения
+
 void runProcess(const char* cmd) {
     STARTUPINFOA si;
     ZeroMemory(&si, sizeof(si));
@@ -54,7 +54,7 @@ int main() {
     cin >> count;
 
     char cmd1[200];
-    sprintf(cmd1, "Creator %s %d", binFile, count);
+    sprintf_s(cmd1, "Creator %s %d", binFile, count);
     runProcess(cmd1);
 
     cout << "\nСодержимое бинарника:\n";
@@ -73,7 +73,7 @@ int main() {
     cin >> rate;
 
     char cmd2[200];
-    sprintf(cmd2, "Reporter %s %s %.2f", binFile, reportFile, rate);
+    sprintf_s(cmd2, "Reporter %s %s %.2f", binFile, reportFile, rate);
     runProcess(cmd2);
 
     cout << "\nОтчёт:\n";

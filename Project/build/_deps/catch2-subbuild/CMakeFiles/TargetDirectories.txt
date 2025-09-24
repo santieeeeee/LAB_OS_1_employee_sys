@@ -1,3 +1,0 @@
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/_deps/catch2-subbuild/CMakeFiles/ALL_BUILD.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/_deps/catch2-subbuild/CMakeFiles/ZERO_CHECK.dir

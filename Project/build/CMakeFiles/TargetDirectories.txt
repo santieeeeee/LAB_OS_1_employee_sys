@@ -1,8 +1,0 @@
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/CMakeFiles/ALL_BUILD.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/CMakeFiles/ZERO_CHECK.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/src/CMakeFiles/Creator.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/src/CMakeFiles/Reporter.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/src/CMakeFiles/MainApp.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/tests/CMakeFiles/UnitTests.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/tests/CMakeFiles/ALL_BUILD.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/Project/build/_deps/catch2-build/CMakeFiles/ALL_BUILD.dir
