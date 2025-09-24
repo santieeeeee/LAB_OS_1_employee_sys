@@ -1,0 +1,10 @@
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/CMakeFiles/tests_runner.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/CMakeFiles/RUN_TESTS.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/CMakeFiles/ALL_BUILD.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/CMakeFiles/ZERO_CHECK.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/CMakeFiles/RUN_TESTS.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/CMakeFiles/ALL_BUILD.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/googletest/CMakeFiles/gtest.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/googletest/CMakeFiles/gtest_main.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/googletest/CMakeFiles/RUN_TESTS.dir
+D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/googletest/CMakeFiles/ALL_BUILD.dir
