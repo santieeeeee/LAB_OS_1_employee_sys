@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/cmake_install.cmake",
-		"D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/cmake_install.cmake",
-		"D:/writtenprogramms/LAB_OS_1_employee_sys/tests/build/googletest_build/googletest/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

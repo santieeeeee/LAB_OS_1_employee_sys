@@ -1,5 +1,0 @@
-D:/writtenprogramms/LAB_OS_1_employee_sys/build/CMakeFiles/Creator.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/build/CMakeFiles/Reporter.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/build/CMakeFiles/MainApp.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/build/CMakeFiles/ALL_BUILD.dir
-D:/writtenprogramms/LAB_OS_1_employee_sys/build/CMakeFiles/ZERO_CHECK.dir
